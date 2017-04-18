@@ -1,0 +1,14 @@
+ doc/userguide.txt | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+diff --git a/doc/userguide.txt b/doc/userguide.txt
+--- a/doc/userguide.txt
++++ b/doc/userguide.txt
+@@ -1,6 +1,6 @@
+ uthash User Guide
+ =================
+-Troy D. Hanson, Arthur O'Dwyer
++Hanson, O'Dwyer
+ v2.0.2, March 2017
+ 
+ To download uthash, follow this link back to the
